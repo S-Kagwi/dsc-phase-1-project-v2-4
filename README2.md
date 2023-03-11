@@ -63,10 +63,7 @@ This project uses the following:
 
 We used the following visualizations:
 
-C:\Users\Grey 1\Documents\dsc-phase-1-project-v2-4\images\average_roi_per_month_of_release.png
-
-
-(images/top_10_studios_by_domestic_gross.png)
+![runtime_vs_RoI](images/top_10_studios_by_domestic_gross.png)
 
 (images/average_roi_per_month_of_release.png)
 
