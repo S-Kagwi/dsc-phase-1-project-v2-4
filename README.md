@@ -63,8 +63,7 @@ This project uses the following:
 
 We used the following visualizations:
 
-https://github.com/S-Kagwi/dsc-phase-1-project-v2-4/blob/e11eaea550337566ca3d0dc2047c612c5d5767e1/Images/average_roi_per_month_of_release.png
-![top_10_studios_by_domestic_gross](images/top_10_studios_by_domestic_gross.png)
+Images/average_roi_per_month_of_release.png
 
 (images/average_roi_per_month_of_release.png)
 
