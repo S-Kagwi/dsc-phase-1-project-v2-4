@@ -63,9 +63,9 @@ This project uses the following:
 
 We used the following visualizations:
 
-Images/average_roi_per_month_of_release.png
+![average_roi_per_month_of_release](./images/average_roi_per_month_of_release.png)
 
-(images/average_roi_per_month_of_release.png)
+Images/average_roi_per_month_of_release.png
 
 (images/popularity_of_music_genres.png)
 
