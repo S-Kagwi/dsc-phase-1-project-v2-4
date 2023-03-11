@@ -63,6 +63,7 @@ This project uses the following:
 
 We used the following visualizations:
 
+Images/top_10_studios_by_domestic_gross.png
 ![top_10_studios_by_domestic_gross](images/top_10_studios_by_domestic_gross.png)
 
 (images/average_roi_per_month_of_release.png)
