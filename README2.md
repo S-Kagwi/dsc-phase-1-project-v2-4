@@ -85,4 +85,3 @@ This analysis leads to the following recommendations for Microsoft Studios:
 5. Movies with a combination of Action, Adventure and Sci-Fi genres were the most popular. Microsoft should produce a movie with this combination of genres.
 
 6. The length of a movie (runtime) has no impact on its popularity (ratings).
-
