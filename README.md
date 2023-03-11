@@ -63,7 +63,7 @@ This project uses the following:
 
 We used the following visualizations:
 
-Images/top_10_studios_by_domestic_gross.png
+https://github.com/S-Kagwi/dsc-phase-1-project-v2-4/blob/e11eaea550337566ca3d0dc2047c612c5d5767e1/Images/average_roi_per_month_of_release.png
 ![top_10_studios_by_domestic_gross](images/top_10_studios_by_domestic_gross.png)
 
 (images/average_roi_per_month_of_release.png)
@@ -84,5 +84,3 @@ This analysis leads to the following recommendations for Microsoft Studios:
 4. Releasing movies in December would likely lead to the highest return on investment by the movie.
 
 5. Movies with a combination of Action, Adventure and Sci-Fi genres were the most popular. Microsoft should produce a movie with this combination of genres.
-
-6. The length of a movie (runtime) has no impact on its popularity (ratings).
