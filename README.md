@@ -63,7 +63,7 @@ This project uses the following:
 
 We used the following visualizations:
 
-![average_roi_per_month_of_release](./images/average_roi_per_month_of_release.png)
+![average_roi_per_month_of_release](images/average_roi_per_month_of_release.png)
 
 Images/average_roi_per_month_of_release.png
 
