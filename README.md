@@ -23,11 +23,11 @@ Microsoft sees all the big companies creating original video content and they ha
 ### 2. Data Understanding
 The data used was obtained from three renowned movie websites:
 
- 1. Box Office Mojo (https://www.boxofficemojo.com/) - bom.movie_gross.csv
+ 1. Box Office Mojo from https://www.boxofficemojo.com/ - bom.movie_gross.csv
 
- 2. IMDB (https://www.imdb.com/) - im.db
+ 2. IMDB from https://www.imdb.com/ - im.db
 
- 3. The Numbers (https://www.the-numbers.com/)- tn.movie_budgets.csv
+ 3. The Numbers from https://www.the-numbers.com)- tn.movie_budgets.csv
  
  * From the [first dataset](bom.movie_gross.csv) which is in `.csv` format, we have the title, studios, domestic gross revenue, foreign gross revenue and the year in which the movie was released. We will use data from the studio and domestic gross columns.
  
@@ -68,6 +68,12 @@ We used the following visualizations:
 ![top_10_studios_by_domestic_gross](Images/top_10_studios_by_domestic_gross.png)
 
 ![popularity_of_music_genres](Images/popularity_of_music_genres.png)
+
+![correlation_between_production_budget_and_worldwide_revenue](Images/correlation_between_production_budget_and_worldwide_revenue.png)
+
+![Frequency_of_production_budgets](Images/Frequency_of_production_budgets.png)
+
+![distribution_of_films_released_per_month](Images/distribution_of_films_released_per_month.png)
 
 ---
 
