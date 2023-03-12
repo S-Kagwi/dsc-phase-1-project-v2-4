@@ -63,11 +63,11 @@ This project uses the following:
 
 We used the following visualizations:
 
-![average_roi_per_month_of_release](images/average_roi_per_month_of_release.png)
+![average_roi_per_month_of_release](Images/average_roi_per_month_of_release.png)
 
-Images/average_roi_per_month_of_release.png
+![top_10_studios_by_domestic_gross](Images/top_10_studios_by_domestic_gross.png)
 
-(images/popularity_of_music_genres.png)
+![popularity_of_music_genres](Images/popularity_of_music_genres.png)
 
 ---
 
